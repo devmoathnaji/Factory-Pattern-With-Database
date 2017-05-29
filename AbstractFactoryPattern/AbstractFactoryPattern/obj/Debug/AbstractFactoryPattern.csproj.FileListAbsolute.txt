@@ -1,0 +1,7 @@
+M:\Tutrial&EBooks\GangOf4 Implemet\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe.config
+M:\Tutrial&EBooks\GangOf4 Implemet\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.csprojResolveAssemblyReference.cache
+M:\Tutrial&EBooks\GangOf4 Implemet\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe
+M:\Tutrial&EBooks\GangOf4 Implemet\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.pdb
+M:\Tutrial&EBooks\GangOf4 Implemet\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.exe
+M:\Tutrial&EBooks\GangOf4 Implemet\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.pdb
+M:\Tutrial&EBooks\GangOf4 Implemet\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\MySql.Data.dll
